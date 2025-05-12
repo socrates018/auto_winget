@@ -1,2 +1,2 @@
 # auto_winget
-a winget script that automatically updates quietly
+A winget script that automatically updates windows packages quietly and without user intervention
